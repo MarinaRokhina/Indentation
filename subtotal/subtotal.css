@@ -1,0 +1,50 @@
+.subtotal {
+    max-width: 1140px;
+    min-height: 385px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #F1F1F1;
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-left: 45px;
+    margin-bottom: 50px;
+}
+
+.subtotal__title {
+    margin-bottom: 20px;
+  }
+
+.subtotal__title p {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    /* identical to box height, or 53px */
+    color: #000000;
+  }
+
+
+  .subtotal__list {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    color: #000000;
+    vertical-align: middle;
+  }
+
+
+  .subtotal__item {
+    margin-bottom: 10px;
+  }
+
+  .subtotal__item:last-child {
+    margin-bottom: 25px;
+  }
+
+  .subtotal__container {
+    margin-bottom: 30px;
+  }
+
+  .subtotal__text p {
+    margin-bottom: 25px;
+  }

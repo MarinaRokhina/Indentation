@@ -1,0 +1,31 @@
+.third {
+    max-width: 1080px;
+    margin-bottom: 50px;
+}
+
+
+
+.third__title {
+    margin-bottom: 30px;
+}
+
+.third__text {
+    margin-bottom: 30px;
+}
+
+
+
+.third__img img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.marginyes {
+    margin-bottom: 30px;
+}
+
+.nomargin {
+    margin-bottom: 0px;
+}
