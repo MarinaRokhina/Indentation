@@ -65,4 +65,9 @@ h2 {
   color: #000000;
 }
 
+.container__box {
+  max-width: 1080px;
+  margin-bottom: 50px;
+}
+
 
